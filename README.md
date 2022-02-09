@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💥 AWS Data Engineer @ Cognizant
-- 💻 Self-Taught Python & AWS
+- 💻 Self-Taught Python, AWS & Tableau
 - 👾 Creator of @PythonFlashcards on Instagram
 - 📫 How to reach me: Sbansal7@gmail.com
 - ✨ Always learning and exploring!

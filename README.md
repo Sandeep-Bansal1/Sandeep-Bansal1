@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 💥 AWS Data Engineer @ Cognizant
-- 💻 Self-Taught Certified AWS, Tableau & CompTIA
-- 👾 Creator of @PythonFlashcards on Instagram
+- 💻 Self-Taught Certified AWS, Tableau & CompTIA.
+- 🌟 Featured in CompTIA Newsletter: From Healthcare to Data Science.
+- 📚 Member of Phi Kappa Phi: Top 10% in academic standing. 
+- 👾 Creator of @PythonFlashcards on Instagram.
 - 📫 How to reach me: Sbansal7@gmail.com
 - ✨ Always learning and exploring!
 

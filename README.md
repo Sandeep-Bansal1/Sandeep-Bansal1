@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💥 AWS Data Engineer @ Cognizant
+- 💥 Data Scientist at CNN
 - 💻 Self-Taught Certified AWS, Tableau & CompTIA.
 - 🌟 Featured in CompTIA Newsletter: From Healthcare to Data Science.
 - 📚 Member of Phi Kappa Phi: Top 10% in academic standing. 
